@@ -1,0 +1,5 @@
+794 gleiche Sprecher fuer Marvin und go. Sprecher Marvin: 1191 Sprecher go 1182
+790 gleiche Sprecher fuer Marvin und happy. Sprecher Marvin: 1191 Sprecher happy 1178
+816 gleiche Sprecher fuer Marvin und on. Sprecher Marvin: 1191 Sprecher on 1198
+798 gleiche Sprecher fuer Marvin und yes. Sprecher Marvin: 1191 Sprecher yes 1200
+793 gleiche Sprecher fuer Marvin und wow. Sprecher Marvin: 1191 Sprecher wow 1181
